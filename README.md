@@ -1,5 +1,7 @@
 # whitelist
 
+https://github.com/saymilady/whitelist/blob/main/whitelist.json
+
 15 may 2023
 snapshots taken of pixelady maker, brg nft and artemis dolls holders
 
